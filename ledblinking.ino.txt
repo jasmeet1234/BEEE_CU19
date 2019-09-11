@@ -1,0 +1,24 @@
+void setup()
+{
+pinMode(13,OUTPUT);  
+}
+
+void loop()
+{
+digitalWrite(13,HIGH);
+delay(1000);
+digitalWrite(13,LOW);
+delay(1000);
+}
+
+
+Brife Discription of Above code
+
+Void Setup- here we define which pin we are using in the Ardiuno board.
+
+Void Loop - here we give the information about our device wether it is output or input and tell our system wether it should 
+            glow or not.
+
+pinMode(13,OUTPUT)   - it tells the system about the pin number we are using in this case we are usnig pin no.13 and OUTPUT tells it is output pin.
+
+digitalWrite(13,HIGH)- degitalWrite means output commnand as LED is a output device and HIGH give the command that it must glow similrally LOW means Off
