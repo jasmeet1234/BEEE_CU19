@@ -1,0 +1,26 @@
+AIM: to make series and parallel connection on breadboard.
+
+MATERIAL REQUIRED: breadboard, resistor, led , battery, wires.
+
+SERIES CIRCUIT
+1. take a breadboard and connect positive and negative terminals in side of breadboard.
+2. connect the two resistor such that one of the leg is in postive terminal's row and other are in i-6 and i-8 respectively.
+3. connect the first led such that it's positive leg is in h-6 and negative leg is connected to negative of battery, vice versa coonect positive leg of 2nd led in h-8 and negative to negative row of battery.
+4. check the connection and turn on the battery.
+
+PARALLEL CIRCUIT
+1. Take a breadboard, Two LED, Two resistance, A 9V battery, connecting wires.
+2. Insert one leg of first LED into 'e' 13  and other into 'e' 14 and for second LED insert one leg in 'i' 12 and into 'i' 13.
+3. Insert one leg of resistance 'j' 13 and other leg to the upper positive rail of the breadboard.
+4. As we have  connected both the LED into the different rail of the board so to make connection connect one wire to both the positive terminla
+   and one wire to the negative terminal of the LED.
+5. Now finally connect the positive wire of battery clip to the positive terminla of the LED and negative wire to negative terminla of the LED.
+6. Connect the battery clip to the battery and your LED will glow. Your parallel connection is ready. 
+
+POINTS TO NOTE
+
+1. check whether the connection are firm or not.
+2. due to change in polarity of led in circuit can lead to non working of circuit.
+3. try using colour coding for each type of wire for more easy handeling and component assembling.
+4. use a battery with sufficient voltage supplying capacity.
+5. handle every component carefully and try not to loose them.
