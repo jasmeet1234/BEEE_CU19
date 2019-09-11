@@ -1,0 +1,47 @@
+MULTIMETER
+
+AIM:This experiment shows how to use multimeter to measure resistance,current,volatage and diode testing.
+MATERIAL REQUIRED: Multimeter, battery ,diode and resistor 
+
+PROCEDURE 
+
+TO MEASURE VOLTAGE OF A BATTERY
+
+1. First take a battery and a multimeter.
+2. Insert the black cable into common port and red cable into V(ohm) port as we have to measure voltage here, now connect black cable to negative terminal and red cable to positive terminal.
+3. rotate the dial to DC voltage seblack cction as battery is a DC source.
+4. set the dial to maximum volatge range i.e. 600 V.
+5. now rotate the dial till you get most accurate value, if the voltage becomes out of range it will show 1 on right hand side.
+
+RESISTANCE TESTING
+
+1. take any desired resistor of any colour code.
+2. Insert the black cable into common port and red cable into V(ohm) port as we have to measure resistance here, coonect both the cable to resistor.
+3. rotate the dial to V(ohm) as we have measure the resistance and set the dial to maximum resistance.
+4. now decrease the resistance range till you get the most accurate value.
+
+DIODE TESTING
+
+1. take any diode, it can be a LED.
+2. now connect black cable to common port and red one to V(ohm).
+3. rotate the dial to the diode symbol which looks like tilted wifi symbol.
+4. on a diode their is band on which on right hand side ther is cathode and on left hand side is anode.
+5. connect the black cable to cathode and red one to anode and you will get your desired reading.
+
+TO MEASURE CURRENT
+
+1. first take a led ,multimeter ,battery and some wires.
+2. join them to make a circuit such that multimeter is in between the circuit.
+3. connect the common cable in com and red one to amper.
+4. now connect black probes to negative terminal and red one  to anode of the led.
+5. start with 10A so multimeter dont breaks the fuse.
+6. measure the current.
+
+POINTS TO NOTE 
+
+1. during measurement of current polarity of led matters.
+2. we always start with 10 A in measurement of current so that fuse in multimeter dont break due to overload.
+3. common cable always goes to com.
+4. reading 1 on right hands means that the value is out of range but 1 on left hand shows the reading.
+5. we have to carefully connect the probes for most accurate readings.
+6. we can only measure D.C. current from multimeter.
