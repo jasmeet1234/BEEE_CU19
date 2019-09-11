@@ -1,0 +1,21 @@
+AIM: To make led flasher
+MATERIAL REQUIRED: arduino board, bread board, led, resistance, connecting wire.
+
+PROCEDURE:
+1. Take a led and put it on bread board with anode in positive side and cathode in negative side.
+2. use a resistor to reduce the chance of led frying.
+3. connect the led to arduino board with the help of a wire to digital input corresponding to correct pin.
+4. now connect ground pin to led's cathode.
+5. once the hardware is set up now prepare a code for led blinking.
+6. once code is ready compile it.
+7. connect the arduino board to pc.
+8. select the port as arduino uno in tool section.
+9. upload the code to arduino board, once it gets uploaded the led will start to turn on and off.
+
+POINTS TO NOTE
+
+1. led is a digital device thus it must be connected to digital pins.
+2. you have to join led to correct corresponding defined pin.
+3. we have to use resistor so that led dont fry up.
+4. if we get uploading error we should first see if the port selected is correct or not.
+5. the code we write is written in c language thus it is case sensitive, so we must use proper case while writing a code.
