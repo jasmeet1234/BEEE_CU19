@@ -1,4 +1,5 @@
-# BEEE_CU19
-UID 19BCS4040
-BE.C.S.E(CC-1)
-DATE OF COMPLETION 6.09.19
+
+Arduino Uno Code Repository
+Arduino Uno Logo
+
+Welcome to the Arduino Uno Code Repository! This repository contains various code examples and projects for the Arduino Uno device. Whether you're a beginner or an experienced Arduino enthusiast, you'll find a wide range of code snippets and complete projects to learn from and build upon.
